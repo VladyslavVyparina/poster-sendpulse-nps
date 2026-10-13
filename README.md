@@ -40,3 +40,7 @@ Health: `http://127.0.0.1:3000/health`. Admin: `http://127.0.0.1:3000/admin`.
 ## What this public copy leaves out
 
 `.env` and `node_modules`.
+
+## Documents
+
+`docs/SPECIALIST_GUIDE_EN.md` is the full specialist note: the Poster webhook, the delay, quiet hours, cancellation, the admin page, and `GET /poster-connect`. The file that used to be the Ukrainian copy of that guide now points at the English one.
